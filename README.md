@@ -13,7 +13,7 @@ Opencore EFI configuration for MacOs Sonoma on the MSI MAG B460M BAZOOKA motherb
 - **SSD (External)**: [Sandisk Portable SSD 480GB](https://www.westerndigital.com/products/portable-drives/sandisk-usb-3-2-ssd#SDSSDE30-1T00-G26)
 - **Ethernet**: Realtek 8111
 
-# 🧑🏻‍💻 OpenCore + macOS Ventura
+# 🧑🏻‍💻 OpenCore + macOS Sonoma
 ## Opencore 0.9.5 Stable
 - [**Opencore 0.9.5**](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.5)
 - [**Instalation Guide**](https://dortania.github.io/OpenCore-Install-Guide/)
