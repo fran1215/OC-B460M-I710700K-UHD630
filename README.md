@@ -1,7 +1,7 @@
 # 🌐 Opencore B460M Bazooka + Comet Lake + iGPU 
 Opencore EFI configuration for MacOs Sonoma on the MSI MAG B460M BAZOOKA motherboard, using Intel I7-10700K (Comet Lake) processor, and iGPU Intel Graphics UHD 630
 
-[**DOWNLOAD THE EFI FOLDER**](https://github.com/fran1215/OC-B460M-I710700K-UHD630/releases/tag/0.0.1)
+[**DOWNLOAD THE EFI FOLDER**](https://github.com/fran1215/OC-B460M-I710700K-UHD630/releases/download/0.0.1/EFI.zip)
 
 ![Resulting configuration](/assets/Config%20Sonoma.png)
 
