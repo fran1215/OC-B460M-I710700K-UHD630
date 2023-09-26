@@ -1,9 +1,9 @@
 # 🌐 Opencore B460M Bazooka + Comet Lake + iGPU 
-Opencore EFI configuration for the MSI MAG B460M BAZOOKA motherboard, using Intel I7-10700K (Comet Lake) processor, and iGPU Intel Graphics UHD 630
+Opencore EFI configuration for MacOs Sonoma on the MSI MAG B460M BAZOOKA motherboard, using Intel I7-10700K (Comet Lake) processor, and iGPU Intel Graphics UHD 630
 
 [**DOWNLOAD THE EFI FOLDER**](https://github.com/fran1215/OC-B460M-I710700K-UHD630/releases/tag/0.0.1)
 
-![Resulting configuration](assets/Config.png)
+![Resulting configuration](/assets/Config%20Sonoma.png)
 
 # ⚙️ Configuration
 - **Motherboard**: [MSI MAG B460M BAZOOKA](https://www.msi.com/Motherboard/MAG-B460M-BAZOOKA)
@@ -18,8 +18,8 @@ Opencore EFI configuration for the MSI MAG B460M BAZOOKA motherboard, using Inte
 - [**Opencore 0.9.5**](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.5)
 - [**Instalation Guide**](https://dortania.github.io/OpenCore-Install-Guide/)
 
-## macOS Ventura 13.5.2
-- [**macOs Ventura**](https://www.apple.com/macos/ventura/)
+## macOS Sonoma 14.0
+- [**macOs Sonoma**](https://www.apple.com/macos/sonoma/)
 
 # ✅ What's working?
 Basically everything is working, except for the dGPU (Gigabyte Geforce RTX 3060Ti) since Opencore doesn't support Nvidia RTX GPUs. Bluetooth and Wi-Fi are not working in this configuration since my desktop doesn't have a card for these, nor I have a dongle. DRM also doesn't work, but you can use other browsers to use video streaming platforms.
