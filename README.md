@@ -3,7 +3,7 @@ Opencore EFI configuration for MacOs Sonoma on the MSI MAG B460M BAZOOKA motherb
 
 [**DOWNLOAD THE EFI FOLDER**](https://github.com/fran1215/OC-B460M-I710700K-UHD630/releases/download/0.0.1/EFI.zip)
 
-![Resulting configuration](/assets/Config%20Sonoma.png)
+![Resulting configuration](/assets/ConfigSonoma.png)
 
 # ⚙️ Configuration
 - **Motherboard**: [MSI MAG B460M BAZOOKA](https://www.msi.com/Motherboard/MAG-B460M-BAZOOKA)
